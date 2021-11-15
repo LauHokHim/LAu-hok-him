@@ -16,4 +16,4 @@ Q6 the management of logistics and the future development of logistics.
  |---|---|---|---|
  |Pixiv| Pixiv Inc. | 6.30.0 | Social media |
  |Arknight | Hypergryph | 1.0.01 | Game |
- |
+ |MTR Mobile | MTR Corporation Limited | 20.15.2 | Travel and place information |
